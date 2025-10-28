@@ -111,8 +111,6 @@ Complete management system for sports equipment rental in tourist destinations
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IngRetrius&layout=compact&theme=tokyonight&hide_border=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=IngRetrius&theme=tokyonight&hide_border=true)
-
 </div>
 
 ## Education
