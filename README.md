@@ -4,9 +4,9 @@ Computer Information Systems Engineering Student | Data Engineering | Python · 
 
 <div align="center">
 
-[LinkedIn](https://linkedin.com/in/juanpereapossos) •
-[GitHub](https://github.com/IngRetrius) •
-[Email](mailto:retrius2001@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-juanpereapossos-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/juanpereapossos)
+[![GitHub](https://img.shields.io/badge/GitHub-IngRetrius-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/IngRetrius)
+[![Email](https://img.shields.io/badge/Email-retrius2001%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:retrius2001@gmail.com)
 
 </div>
 
@@ -26,16 +26,16 @@ Open to **Data Engineer** and **Data Analyst** opportunities in banking and fint
 
 ## Technical Skills
 
-**Programming**
+**Programming**  
 Python · SQL · Java · JavaScript
 
-**Data & Analytics**
+**Data & Analytics**  
 Pandas · NumPy · Scikit-learn · Data Analysis · Data Modeling
 
-**Backend & Data Systems**
+**Backend & Data Systems**  
 Flask · FastAPI · REST APIs · Database Design
 
-**Cloud & Tools**
+**Cloud & Tools**  
 AWS (EC2, S3, RDS) · MySQL · Git · GitHub
 
 ---
@@ -53,7 +53,7 @@ Feb 2026 – Present | Remote
 
 ### Bartender & Cabana Lead  
 **Noah's Ark Waterpark** — Seasonal  
-May 2024 – Aug 2024 | Wisconsin, USA
+May 2024 – Aug 2024 | Wisconsin, United States
 
 - Led and coordinated a **20+ employee team**
 - Managed operational procedures and staff training
@@ -74,7 +74,7 @@ Machine learning system predicting goal performance using **LSTM, SARIMAX, and P
 Technologies: Python · FastAPI · React · Pandas
 
 ### Colombian Soccer Data Analysis
-Automated **data collection and analytics pipeline** for professional soccer statistics using web scraping.
+Automated **data collection and analytics pipeline** for soccer player statistics using web scraping.
 
 Technologies: Python · Selenium · Pandas
 
@@ -82,9 +82,9 @@ Technologies: Python · Selenium · Pandas
 
 ## Certifications
 
-- **IBM Data Architecture Professional Certificate** (In Progress)
-- **IBM Data Science Professional Certificate**
-- **AWS Academy Graduate — Cloud Foundations**
+- **IBM Data Architecture Professional Certificate** (In Progress)  
+- **IBM Data Science Professional Certificate**  
+- **AWS Academy Graduate — Cloud Foundations**  
 - **Financial Accounting Fundamentals — UVA Darden School of Business**
 
 ---
@@ -93,9 +93,11 @@ Technologies: Python · Selenium · Pandas
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IngRetrius&show_icons=true&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IngRetrius&show_icons=true&hide_border=true&rank_icon=github)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IngRetrius&layout=compact&hide_border=true)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=IngRetrius&theme=flat&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
