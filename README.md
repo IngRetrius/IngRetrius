@@ -1,7 +1,7 @@
-# Hi there! I'm Juan Perea Possos
+# Hi, I'm Juan Perea
 
 <div align="center">
-  
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-juanpereapossos-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/juanpereapossos)
 [![GitHub](https://img.shields.io/badge/GitHub-IngRetrius-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/IngRetrius)
 [![Email](https://img.shields.io/badge/Email-retrius2001%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:retrius2001@gmail.com)
@@ -10,140 +10,72 @@
 
 ## About Me
 
-Final-year **Computer Information Systems Engineering** student at Universidad de Ibagué, passionate about transforming data into actionable insights and building innovative digital solutions. 
+Final-year **Computer Information Systems Engineering** student at **Universidad de Ibagué** focused on **Data Engineering, Analytics, and Financial Technology**.
 
-- Currently working as **Co-Founder & Front-End Developer** at [Tween Protocol](https://tweenprotocol.com)
-- Specializing in **Data Science, Machine Learning & Cloud Computing**
-- Seeking opportunities in **Junior Data Analyst** and **Cloud Solutions Associate** roles
-- International experience through Work & Travel programs in the United States
-- Ask me about: Python, Data Analytics, AWS, React, or Soccer Analytics
+Interested in building **data-driven systems for finance and fintech**, combining technical skills in **Python, SQL, and Cloud Computing** with knowledge in **financial accounting and data architecture**.
+
+- Junior Developer and Database Analyst at **SigaWeb**
+- Focused on Data Engineering, Data Analytics, and Fintech
+- Currently strengthening expertise in data architecture and cloud-based data systems
 - Based in Ibagué, Colombia
-
-## Professional Experience
-
-**Co-Founder & Front-End Developer** @ Tween Protocol *(Jan 2025 - Present)*
-- Creating exceptional web experiences with modern technologies
-- Specializing in front-end development, UX/UI design, and interactive animations using GSAP
-
-**Lead Bartender** @ Noah's Ark Waterpark *(May 2024 - Aug 2025)*
-- Led teams of 25+ employees in high-volume environment serving 300+ daily guests
-- Managed operations with 100% accuracy in payment reconciliation
 
 ## Tech Stack
 
-**Languages**
-```python
-languages = ['Python', 'Java', 'TypeScript', 'JavaScript', 'SQL']
-```
+**Languages**  
+Python · SQL · Java · JavaScript · TypeScript
 
-**Data Science & Machine Learning**
-- Analysis: Pandas, NumPy, Matplotlib, Seaborn
-- Machine Learning: Scikit-learn, TensorFlow, PyTorch, LSTM, SARIMAX
-- Computer Vision: OpenCV, YOLOv8, Object Detection
+**Data & Analytics**  
+Pandas · NumPy · Scikit-learn · Data Analysis · Data Modeling
 
-**Web Development**
-- Frontend: React, HTML/CSS, Tailwind CSS, GSAP
-- Backend: Flask, FastAPI, RESTful APIs
-- Design: Responsive Design, UX/UI
+**Data & Backend**  
+Flask · FastAPI · REST APIs · Database Design
 
-**Cloud & Tools**
-- AWS: EC2, S3, RDS
-- Databases: MySQL, Database Design
-- DevOps: Git, GitHub, Maven
+**Cloud & Tools**  
+AWS (EC2, S3, RDS) · MySQL · Git · GitHub
 
-## Featured Projects
+## Experience
 
-### [Pig Detection System with AI](https://github.com/IngRetrius/Pig-detec)
-Real-time pig detection and tracking using YOLOv8, Flask, and OpenCV
-- Implemented comparative analysis between YOLOv8x and YOLOv8s models
-- Video processing capabilities supporting multiple formats up to 100MB
-- Achieved accurate object detection with configurable confidence thresholds
+**Junior Developer | Database Analyst & Support**  
+*SigaWeb — Part-time*  
+Feb 2026 – Present | Remote
 
-**Tech:** `Python` `Flask` `YOLOv8` `OpenCV` `PyTorch`
+- Resolved production bugs through SFTP server access  
+- Executed SQL queries and database administration  
+- Managed web servers and domain configurations  
+- Provided technical support for the SigaWeb academic management platform  
 
-### [Soccer Player Performance Prediction](https://github.com/IngRetrius/Api-prediccion-jugadores-futbol)
-Machine learning system for predicting goal performance in Colombian soccer league
-- Ensemble model combining LSTM, SARIMAX, and Poisson models
-- Interactive React dashboard with data visualizations
-- RESTful API for player statistics and predictions
+**Bartender & Cabana Lead**  
+*Noah's Ark Waterpark — Seasonal*  
+May 2024 – Aug 2024 | Wisconsin, USA
 
-**Tech:** `Python` `FastAPI` `React` `TypeScript` `LSTM` `Pandas`
+- Led and coordinated a team of 20+ employees  
+- Managed daily operational procedures  
+- Trained new staff on service standards and POS systems  
+- Maintained service quality during peak periods serving 300+ guests daily  
 
-### [Colombian Soccer Players Analysis](https://github.com/IngRetrius/Colombian-Soccer-Analysis)
-Automated web scraping system for player statistics from SofaScore
-- Data collection for attack, defense, passing, and goalkeeper metrics
-- Structured data for future recommendation systems and time series analysis
+## Selected Projects
 
-**Tech:** `Python` `Selenium` `Pandas` `Web Scraping`
+**Pig Detection System (AI)**  
+Real-time object detection system using YOLOv8, OpenCV, and Flask.
 
-### [Sports Equipment Rental Management](https://github.com/IngRetrius/Alquiler-equipos-deportivos)
-Complete management system for sports equipment rental in tourist destinations
-- Role-based authentication (admin/worker)
-- Inventory, reservations, and client management
-- MVC architecture with MySQL database
+**Soccer Player Performance Prediction**  
+Machine learning system combining LSTM, SARIMAX, and Poisson models with a React dashboard.
 
-**Tech:** `Java` `Swing` `MySQL` `JDBC`
+**Colombian Soccer Data Analysis**  
+Automated web scraping and data analysis pipeline for soccer player statistics.
 
 ## Certifications
 
-<div align="center">
-
-| Certification | Issuer | Date |
-|--------------|--------|------|
-| IBM Data Science Professional Certificate | IBM | Oct 2024 |
-| AWS Academy Graduate - Cloud Foundations | AWS | Apr 2024 |
-| IELTS Academic - Score 6.5 (B2) | IELTS | 2025 |
-
-</div>
-
-**IBM Data Science Specialization:**
-- Applied Data Science with Python - Level 2
-- Data Analysis Using Python
-- Data Visualization Using Python
-- Python for Data Science
-- Data Fundamentals
-
-## GitHub Stats
-
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IngRetrius&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IngRetrius&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
-## Education
-
-**Universidad de Ibagué** | Computer Information Systems Engineering *(2020 - 2025)*
-- Focus: Data Science and Cloud Computing
-
-**Servicio Nacional de Aprendizaje (SENA)** | Systems Technician *(2018)*
+- IBM Data Architecture Professional Certificate (in progress)  
+- IBM Data Science Professional Certificate  
+- AWS Academy – Cloud Foundations  
+- Financial Accounting Fundamentals – UVA Darden  
 
 ## Languages
 
-- **Spanish:** Native
-- **English:** Professional Working Proficiency (IELTS 6.5 - B2)
-
-## Interests
-
-Data Analysis • Machine Learning • Cloud Computing • Soccer Analytics • Computer Vision • Web Development
-
-## Let's Connect
-
-I'm actively seeking opportunities in:
-- Junior Data Analyst positions
-- Cloud Solutions Associate roles
-- Front-End Developer positions
-
-Open to internships and entry-level opportunities where I can leverage my technical skills and entrepreneurial mindset.
+Spanish — Native  
+English — B2 (IELTS 6.5)
 
 ---
 
-<div align="center">
-
-**"Transforming data into insights, ideas into digital reality"**
-
-![Profile Views](https://komarev.com/ghpvc/?username=IngRetrius&color=blueviolet&style=flat-square)
-
-</div>
+Interested in opportunities as a **Data Engineer or Data Analyst in banking and fintech**.
