@@ -97,7 +97,6 @@ Technologies: Python · Selenium · Pandas
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IngRetrius&layout=compact&hide_border=true)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=IngRetrius&theme=flat&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
