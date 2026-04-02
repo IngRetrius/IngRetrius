@@ -1,8 +1,11 @@
-# Juan Perea
-
-Computer Information Systems Engineering Student | Data Engineering | Python · SQL · AWS | Finance & Fintech
-
 <div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&pause=1200&color=0A66C2&center=true&vCenter=true&width=900&lines=Juan+Camilo+Perea+Possos" />
+
+<br/>
+
+Data Engineering | Analytics | Fintech
+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-juanpereapossos-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/juanpereapossos)
 [![GitHub](https://img.shields.io/badge/GitHub-IngRetrius-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/IngRetrius)
@@ -89,14 +92,19 @@ Technologies: Python · Selenium · Pandas
 
 ---
 
-## GitHub Activity
+## Fun / Interactive
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IngRetrius&show_icons=true&hide_border=true&rank_icon=github)
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IngRetrius&layout=compact&hide_border=true)
-
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/faizanxmulla/faizanxmulla/github-breakout/images/breakout-custom.svg"
+  />
+  <img alt="Breakout Game" src="https://raw.githubusercontent.com/faizanxmulla/faizanxmulla/github-breakout/images/breakout-custom.svg" />
+</picture>
 
 </div>
 
